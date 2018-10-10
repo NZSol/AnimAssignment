@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DRigging", "Assembly-CSharp.csproj", "{400DDB95-B444-FCDC-60CD-E01D1BF3D00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DRigging", "Assembly-CSharp-Editor.csproj", "{DD083CBF-1A31-0B20-D192-92520CE3863F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400DDB95-B444-FCDC-60CD-E01D1BF3D00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400DDB95-B444-FCDC-60CD-E01D1BF3D00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400DDB95-B444-FCDC-60CD-E01D1BF3D00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400DDB95-B444-FCDC-60CD-E01D1BF3D00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD083CBF-1A31-0B20-D192-92520CE3863F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD083CBF-1A31-0B20-D192-92520CE3863F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD083CBF-1A31-0B20-D192-92520CE3863F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD083CBF-1A31-0B20-D192-92520CE3863F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
