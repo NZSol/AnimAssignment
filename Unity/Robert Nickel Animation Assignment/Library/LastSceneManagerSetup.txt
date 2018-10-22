@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/2dAnimation.unity
+- path: Assets/2DStuff/2dAnimation.unity
   isLoaded: 1
   isActive: 1
